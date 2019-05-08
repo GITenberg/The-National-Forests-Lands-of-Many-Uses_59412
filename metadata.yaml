@@ -1,5 +1,8 @@
 _repo: The-National-Forests-Lands-of-Many-Uses_59412
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59412-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59412#The-National-Forests-Lands-of-Many-Uses
 gutenberg_issued: '2019-05-01'
 gutenberg_type: Text
 identifiers:
